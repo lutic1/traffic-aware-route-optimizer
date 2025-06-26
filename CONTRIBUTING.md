@@ -8,7 +8,7 @@ We welcome contributions to the Traffic-Aware Route Optimizer! This document pro
 
 If you find a bug or have a feature request:
 
-1. Check the [existing issues](https://github.com/luis-ticas/traffic-aware-route-optimizer/issues) to avoid duplicates
+1. Check the [existing issues](https://github.com/lutic1/traffic-aware-route-optimizer/issues) to avoid duplicates
 2. Create a new issue with a clear title and description
 3. Include steps to reproduce the bug or detailed feature requirements
 4. Add relevant labels (bug, enhancement, question, etc.)
