@@ -30,10 +30,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/luis-ticas/traffic-aware-route-optimizer"
-Repository = "https://github.com/luis-ticas/traffic-aware-route-optimizer.git"
-Issues = "https://github.com/luis-ticas/traffic-aware-route-optimizer/issues"
-Documentation = "https://github.com/luis-ticas/traffic-aware-route-optimizer#readme"
+Homepage = "https://github.com/lutic1/traffic-aware-route-optimizer"
+Repository = "https://github.com/lutic1/traffic-aware-route-optimizer.git"
+Issues = "https://github.com/lutic1/traffic-aware-route-optimizer/issues"
+Documentation = "https://github.com/lutic1/traffic-aware-route-optimizer#readme"
 
 [tool.setuptools.packages.find]
 where = ["."]

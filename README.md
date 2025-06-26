@@ -38,7 +38,7 @@ pip install traffic-aware-route-optimizer
 Clone the repository and install in development mode:
 
 ```bash
-git clone https://github.com/luis-ticas/traffic-aware-route-optimizer.git
+git clone https://github.com/lutic1/traffic-aware-route-optimizer.git
 cd traffic-aware-route-optimizer
 pip install -e .
 ```
